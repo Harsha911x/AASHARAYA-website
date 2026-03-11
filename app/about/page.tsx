@@ -145,16 +145,16 @@ export default function AboutPage() {
               </p>
               <div className="space-y-2">
                 <a
-                  href="tel:+919901815989"
+                  href="tel:+919845319427"
                   className="flex items-center gap-2 font-sans text-xs tracking-widest uppercase hover:text-studio-muted transition-colors"
                 >
-                  <span>+91 99018 15989</span>
+                  <span>+91 98453 19427</span>
                 </a>
                 <a
-                  href="mailto:binduta33@gmail.com"
+                  href="ashoka@2b@gmail.com"
                   className="flex items-center gap-2 font-sans text-xs tracking-widest uppercase hover:text-studio-muted transition-colors"
                 >
-                  <span>binduta33@gmail.com</span>
+                  <span>ashoka@2b@gmail.com</span>
                 </a>
               </div>
             </div>

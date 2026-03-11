@@ -42,7 +42,7 @@ export default function ContactPage() {
                 </h2>
                 <address className="not-italic font-body leading-relaxed text-studio-black">
                   Aashraya<br />
-                  171, 1st Floor, Papareddipalya<br />
+                  1st Floor, XGC5+V2W, Papareddipalya<br />
                   Annapurneshwari Nagar<br />
                   Bengaluru, Karnataka 560072
                 </address>
@@ -53,13 +53,13 @@ export default function ContactPage() {
                   Contact
                 </h2>
                 <p className="font-body mb-1">
-                  <a href="tel:+919901815989" className="hover:text-studio-muted transition-colors">
-                    +91 99018 15989
+                  <a href="tel:+919845319427" className="hover:text-studio-muted transition-colors">
+                    +91 98453 19427
                   </a>
                 </p>
                 <p className="font-body">
-                  <a href="mailto:binduta33@gmail.com" className="hover:text-studio-muted transition-colors">
-                    binduta33@gmail.com
+                  <a href="mailto:ashoka@2b@gmail.com" className="hover:text-studio-muted transition-colors">
+                    ashoka@2b@gmail.com
                   </a>
                 </p>
               </div>
@@ -92,13 +92,13 @@ export default function ContactPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z" />
                   </svg>
                   <p className="font-sans text-xs tracking-wider uppercase text-studio-muted">
-                    171, Papareddipalya
+                    1st Floor, XGC5+V2W, Papareddipalya
                   </p>
                   <p className="font-sans text-xs text-studio-muted">
                     Annapurneshwari Nagar, Bengaluru
                   </p>
                   <a
-                    href="https://maps.google.com/?q=171+Papareddipalya+Annapurneshwari+Nagar+Bengaluru+560072"
+                    href="https://maps.google.com/?q=XGC5%2BV2W+Papareddipalya+Annapurneshwari+Nagar+Bengaluru+560072"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mt-2 font-sans text-xs tracking-widest uppercase border-b border-studio-black pb-0.5 hover:text-studio-muted transition-colors"

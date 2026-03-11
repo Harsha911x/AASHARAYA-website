@@ -11,7 +11,7 @@ export default function PrivacyPage() {
       <section className="pt-32 pb-16 bg-studio-white border-b border-studio-border">
         <div className="max-w-content mx-auto px-6">
           <h1 className="font-display text-5xl md:text-6xl text-studio-black">Privacy Policy</h1>
-          <p className="font-body text-studio-muted mt-4">Last updated: January 2024</p>
+          <p className="font-body text-studio-muted mt-4">Last updated: January 2026</p>
         </div>
       </section>
 
@@ -21,8 +21,8 @@ export default function PrivacyPage() {
             <div>
               <h2 className="font-display text-2xl text-studio-black mb-4">Who we are</h2>
               <p>
-                Studio Arcane Architecture Ltd (&quot;Studio Arcane&quot;, &quot;we&quot;, &quot;us&quot;) is a company
-                registered in England and Wales. This privacy policy explains how we collect, use,
+                AASHRAYA Architecture Ltd (&quot;Studio AASHRAYA&quot;, &quot;we&quot;, &quot;us&quot;) is a company
+                registered in Karnataka, India. This privacy policy explains how we collect, use,
                 and protect your personal data when you use our website or contact us.
               </p>
             </div>
@@ -77,10 +77,11 @@ export default function PrivacyPage() {
             <div>
               <h2 className="font-display text-2xl text-studio-black mb-4">Contact</h2>
               <p>
-                Studio Arcane Architecture Ltd<br />
-                12 Albemarle Street, Mayfair, London W1S 4HF<br />
-                <a href="mailto:studio@studio-arcane.com" className="text-studio-black underline">
-                  studio@studio-arcane.com
+                1st Floor, XGC5+V2W, Papareddipalya<br />
+                Annapurneshwari Nagar<br />
+                Bengaluru, Karnataka 560072<br />
+                <a href="mailto:ashoka@2b@gmail.com" className="text-studio-black underline">
+                  ashoka@2b@gmail.com
                 </a>
               </p>
             </div>

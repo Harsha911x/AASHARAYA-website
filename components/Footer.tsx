@@ -78,21 +78,21 @@ export default function Footer() {
             <h3 className="font-sans text-xs tracking-widest uppercase text-white/40 mb-5">Contact</h3>
             <address className="not-italic">
               <p className="font-body text-sm text-white/70 mb-4 leading-relaxed">
-                171, 1st Floor, Papareddipalya<br />
+                1st Floor, XGC5+V2W, Papareddipalya<br />
                 Annapurneshwari Nagar<br />
                 Bengaluru, Karnataka 560072
               </p>
               <a
-                href="tel:+919901815989"
+                href="tel:+919845319427"
                 className="block font-body text-sm text-white/70 hover:text-white transition-colors mb-2"
               >
-                +91 99018 15989
+                +91 98453 19427
               </a>
               <a
-                href="mailto:binduta33@gmail.com"
+                href="mailto:ashoka@2b@gmail.com"
                 className="block font-body text-sm text-white/70 hover:text-white transition-colors"
               >
-                binduta33@gmail.com
+                ashoka@2b@gmail.com
               </a>
             </address>
 
