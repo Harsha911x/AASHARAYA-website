@@ -1,0 +1,326 @@
+[
+  {
+    "slug": "kensington-mews-house",
+    "title": "Kensington Mews House",
+    "category": "Residential",
+    "location": "London, W8",
+    "year": "2023",
+    "shortDescription": "A complete reimagining of a Victorian mews house — preserving its original character while weaving in contemporary light-filled living spaces.",
+    "description": "This mews conversion presented a rare opportunity to blend the inherent charm of Victorian London with the spatial ambitions of contemporary living. Working closely with the clients, we stripped back decades of ill-considered alterations to reveal original brickwork, timber joists, and a graceful roof pitch — then reinterpreted these elements through a restrained modern lens.\n\nThe ground floor opens into a single flowing volume, with bespoke joinery concealing all utility spaces. A new glazed rear extension introduces a generous connection to the private courtyard garden, flooding the interior with natural light throughout the day.\n\nMaterials were selected for longevity and patina: honed limestone, aged brass hardware, and limewashed oak ensure the home will grow more beautiful with time.",
+    "heroImage": {
+      "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=85",
+      "alt": "Light-filled open plan living space in Kensington mews house",
+      "photographer": "Sidekix Media",
+      "sourceUrl": "https://unsplash.com/photos/g51F6-WYzyU"
+    },
+    "gallery": [
+      {
+        "src": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80",
+        "alt": "Open plan living and dining area with limestone flooring",
+        "photographer": "Sidekix Media",
+        "sourceUrl": "https://unsplash.com/photos/g51F6-WYzyU"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+        "alt": "Bespoke kitchen with aged brass hardware and oak cabinetry",
+        "photographer": "Jason Briscoe",
+        "sourceUrl": "https://unsplash.com/photos/GrdJp16CPk8"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1200&q=80",
+        "alt": "Master bedroom with limewashed oak panelling and natural light",
+        "photographer": "R ARCHITECTURE",
+        "sourceUrl": "https://unsplash.com/photos/2gDwlIim3Uw"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1615873968403-89e068629265?w=1200&q=80",
+        "alt": "Rear glazed extension opening onto private courtyard",
+        "photographer": "R ARCHITECTURE",
+        "sourceUrl": "https://unsplash.com/photos/aG-pvyMsbis"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600210491892-03d54730d2f4?w=1200&q=80",
+        "alt": "Bathroom with honed limestone surfaces and freestanding bath",
+        "photographer": "Francesca Tosolini",
+        "sourceUrl": "https://unsplash.com/photos/UCs_pWITfCk"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?w=1200&q=80",
+        "alt": "Staircase detail with original Victorian brickwork exposed",
+        "photographer": "Hutomo Abrianto",
+        "sourceUrl": "https://unsplash.com/photos/vFMbMKN4-vE"
+      }
+    ],
+    "tags": ["Residential", "Conversion", "Conservation"]
+  },
+  {
+    "slug": "clerkenwell-studio-offices",
+    "title": "Clerkenwell Studio Offices",
+    "category": "Commercial",
+    "location": "London, EC1",
+    "year": "2022",
+    "shortDescription": "A former printworks transformed into flexible studio offices for a creative agency, retaining the raw industrial character of the original building.",
+    "description": "Clerkenwell has long been London's creative quarter, and this former printworks sits at the heart of it. Our brief was to create a workplace that inspires without overwhelming — a backdrop to focused creative work that also energises its occupants.\n\nThe existing industrial skeleton — cast-iron columns, exposed steel trusses, and original factory glazing — was preserved and celebrated. New interventions are clearly legible as contemporary additions: blackened steel mezzanines, polished concrete floors, and full-height glazed meeting pods that float within the volume.\n\nBiophilic design principles guided the landscaping strategy; a canopy of hanging planters and a generous staff terrace ensure a daily connection to nature within this dense urban setting.",
+    "heroImage": {
+      "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=85",
+      "alt": "Industrial studio office with exposed steel trusses and concrete floors",
+      "photographer": "Alex Kotliarskyi",
+      "sourceUrl": "https://unsplash.com/photos/QBpZGqEMsKg"
+    },
+    "gallery": [
+      {
+        "src": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+        "alt": "Main studio floor with cast-iron columns and open workspaces",
+        "photographer": "Alex Kotliarskyi",
+        "sourceUrl": "https://unsplash.com/photos/QBpZGqEMsKg"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80",
+        "alt": "Glazed meeting pod within the main industrial volume",
+        "photographer": "Nastuh Abootalebi",
+        "sourceUrl": "https://unsplash.com/photos/yWwob8kwOCk"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=1200&q=80",
+        "alt": "Blackened steel mezzanine with timber flooring above main workspace",
+        "photographer": "Sigmund",
+        "sourceUrl": "https://unsplash.com/photos/HsTnjCVQ798"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1543269664-56d93c1b41a6?w=1200&q=80",
+        "alt": "Staff terrace with planters and city views",
+        "photographer": "Breather",
+        "sourceUrl": "https://unsplash.com/photos/TGa7sTG1RdQ"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600094329832-b4e1e20ee5c4?w=1200&q=80",
+        "alt": "Reception area with polished concrete desk and original factory glazing",
+        "photographer": "Daria Nepriakhina",
+        "sourceUrl": "https://unsplash.com/photos/xY55bL5mZAM"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1572025442646-866d16c84a54?w=1200&q=80",
+        "alt": "Breakout lounge with hanging biophilic planter installation",
+        "photographer": "Bram Naus",
+        "sourceUrl": "https://unsplash.com/photos/oI668bMzaS4"
+      }
+    ],
+    "tags": ["Commercial", "Office", "Industrial Conversion"]
+  },
+  {
+    "slug": "notting-hill-family-home",
+    "title": "Notting Hill Family Home",
+    "category": "Residential",
+    "location": "London, W11",
+    "year": "2023",
+    "shortDescription": "A generational family home in a Grade II listed terrace, sensitively extended and thoughtfully rearranged for modern family life.",
+    "description": "Few design problems are as nuanced as adapting a Victorian terrace for a contemporary family. Layers of previous interventions had compromised both the listed interiors and the functional flow of the home — our first task was forensic: uncovering what was original, what was added, and what was simply wrong.\n\nThe rear extension is a study in contextual contrast. A weathered steel frame and large-format glass create a room that is undeniably modern yet defers entirely to the Victorian stock brick it meets. Inside, the extension dissolves the historic boundary between house and garden.\n\nThroughout the house, original cornicing, skirtings and shutters have been meticulously restored. New elements — kitchen, bathrooms, and joinery — are crafted to complement rather than compete.",
+    "heroImage": {
+      "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1600&q=85",
+      "alt": "Rear extension of Victorian terrace with weathered steel and glass",
+      "photographer": "Brina Blum",
+      "sourceUrl": "https://unsplash.com/photos/Bb_X4JgSqIM"
+    },
+    "gallery": [
+      {
+        "src": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=1200&q=80",
+        "alt": "Rear extension connecting Victorian terrace to garden",
+        "photographer": "Brina Blum",
+        "sourceUrl": "https://unsplash.com/photos/Bb_X4JgSqIM"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1200&q=80",
+        "alt": "Drawing room with restored cornicing and shutters",
+        "photographer": "Collov Home Design",
+        "sourceUrl": "https://unsplash.com/photos/rBMzTDZfRZU"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+        "alt": "Family kitchen with bespoke cabinetry and island",
+        "photographer": "Jason Briscoe",
+        "sourceUrl": "https://unsplash.com/photos/GrdJp16CPk8"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=1200&q=80",
+        "alt": "Master en-suite with Calacatta marble and walk-in shower",
+        "photographer": "R ARCHITECTURE",
+        "sourceUrl": "https://unsplash.com/photos/W5zgD3c0OBU"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?w=1200&q=80",
+        "alt": "First floor landing with original Victorian staircase restored",
+        "photographer": "Francesca Tosolini",
+        "sourceUrl": "https://unsplash.com/photos/v0-p3UaLOSs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=1200&q=80",
+        "alt": "Children's playroom in the lower ground floor conversion",
+        "photographer": "Andrea Davis",
+        "sourceUrl": "https://unsplash.com/photos/NngNVT74o6s"
+      }
+    ],
+    "tags": ["Residential", "Conservation", "Listed Building"]
+  },
+  {
+    "slug": "suffolk-heritage-barn",
+    "title": "Suffolk Heritage Barn",
+    "category": "Conservation",
+    "location": "Suffolk",
+    "year": "2022",
+    "shortDescription": "The careful conversion of a Grade II listed threshing barn into a distinctive rural home, celebrating the agricultural heritage of the Suffolk landscape.",
+    "description": "This Grade II listed threshing barn has stood in the Suffolk countryside for over three centuries. Our brief was both a privilege and a responsibility: to breathe new life into the structure as a family home, while preserving the authentic character that makes it irreplaceable.\n\nStructural repairs were undertaken first — reinstatement of original oak pegs, replacement of decayed timbers with air-dried oak from sustainable English sources. The monumental interior volume is left entirely open, with a freestanding zinc-clad sleeping pavilion inserted within it, making explicit the conversation between old and new.\n\nThroughout, materials are honest and unadorned: rough-sawn oak, exposed flint, rammed earth floors. The result is a home of singular atmosphere — dramatic yet deeply tranquil.",
+    "heroImage": {
+      "src": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=1600&q=85",
+      "alt": "Converted Suffolk barn with original oak structure and glazed gable end",
+      "photographer": "Phil",
+      "sourceUrl": "https://unsplash.com/photos/hVB-veCdDgE"
+    },
+    "gallery": [
+      {
+        "src": "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=1200&q=80",
+        "alt": "Main barn interior with exposed original oak frame",
+        "photographer": "Phil",
+        "sourceUrl": "https://unsplash.com/photos/hVB-veCdDgE"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=1200&q=80",
+        "alt": "Freestanding zinc sleeping pavilion within barn volume",
+        "photographer": "Alexandra Gorn",
+        "sourceUrl": "https://unsplash.com/photos/JMRujkgBh70"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1510627489930-0c1b0bfb6785?w=1200&q=80",
+        "alt": "Glazed gable end with views across Suffolk landscape",
+        "photographer": "R ARCHITECTURE",
+        "sourceUrl": "https://unsplash.com/photos/n7a2OJDSZns"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=1200&q=80",
+        "alt": "Kitchen with rammed earth floors and rough-sawn oak counters",
+        "photographer": "Naomi Hébert",
+        "sourceUrl": "https://unsplash.com/photos/MP0bgaS_d1c"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1540518614846-7eded433c457?w=1200&q=80",
+        "alt": "Bathroom with exposed flint wall and freestanding bath",
+        "photographer": "Point3D Commercial Imaging",
+        "sourceUrl": "https://unsplash.com/photos/lMGMFd8BcXs"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=1200&q=80",
+        "alt": "Exterior elevation showing original flint and timber frame",
+        "photographer": "Lotus Design N Print",
+        "sourceUrl": "https://unsplash.com/photos/WFQM1KSzZ4Q"
+      }
+    ],
+    "tags": ["Conservation", "Heritage", "Residential"]
+  },
+  {
+    "slug": "chelsea-interior-design",
+    "title": "Chelsea Apartment — Interiors",
+    "category": "Interiors",
+    "location": "London, SW3",
+    "year": "2024",
+    "shortDescription": "A complete interior design commission for a Chelsea apartment, creating a calm and collected environment through a restrained material palette and carefully curated objects.",
+    "description": "Approached for a complete interior design commission, we worked with our clients over eighteen months to create an apartment of quiet distinction. The brief centred on creating a home that felt both timeless and personal — resistant to trend, rich with meaning.\n\nA palette of warm white, natural linen, aged stone, and deep walnut forms the backbone of every room. Against this measured ground, carefully chosen artworks, ceramics, and textiles bring warmth and narrative. Every surface and object was selected or commissioned with deliberate intent.\n\nLighting design was developed in close collaboration with a specialist consultant, creating layered schemes for each room that transition gracefully from morning to evening. The result is an apartment that rewards time — the more you live in it, the more it reveals.",
+    "heroImage": {
+      "src": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1600&q=85",
+      "alt": "Chelsea apartment living room with curated objects and warm material palette",
+      "photographer": "Spacejoy",
+      "sourceUrl": "https://unsplash.com/photos/RnDGGnMEOao"
+    },
+    "gallery": [
+      {
+        "src": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=1200&q=80",
+        "alt": "Living room with linen sofas, walnut joinery and curated ceramics",
+        "photographer": "Spacejoy",
+        "sourceUrl": "https://unsplash.com/photos/RnDGGnMEOao"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=1200&q=80",
+        "alt": "Dining area with aged stone table and bespoke pendant lighting",
+        "photographer": "Sidekix Media",
+        "sourceUrl": "https://unsplash.com/photos/g51F6-WYzyU"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1615529328331-f8917597711f?w=1200&q=80",
+        "alt": "Master bedroom in soft white and natural linen",
+        "photographer": "Spacejoy",
+        "sourceUrl": "https://unsplash.com/photos/YqFz7UMm8qE"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=1200&q=80",
+        "alt": "Bathroom with honed travertine and brushed bronze fixtures",
+        "photographer": "R ARCHITECTURE",
+        "sourceUrl": "https://unsplash.com/photos/2gDwlIim3Uw"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=1200&q=80",
+        "alt": "Study with floor-to-ceiling walnut shelving and reading chair",
+        "photographer": "Francesca Tosolini",
+        "sourceUrl": "https://unsplash.com/photos/UCs_pWITfCk"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=1200&q=80",
+        "alt": "Hallway detail with commission artwork and aged brass mirror",
+        "photographer": "R ARCHITECTURE",
+        "sourceUrl": "https://unsplash.com/photos/2gDwlIim3Uw"
+      }
+    ],
+    "tags": ["Interiors", "Residential", "Apartment"]
+  },
+  {
+    "slug": "bloomsbury-conservation",
+    "title": "Bloomsbury Conservation",
+    "category": "Conservation",
+    "location": "London, WC1",
+    "year": "2021",
+    "shortDescription": "Meticulous restoration and reordering of a Regency townhouse within a Conservation Area, returning the building to its original integrity.",
+    "description": "This Regency townhouse in Bloomsbury had suffered severely from twentieth-century subdivisions and insensitive alterations. Our conservation approach began with extensive archival research — original plans, period photographs, and building fabric analysis — to establish an authoritative picture of the house as built.\n\nThe planning and listed buildings consent process was managed in close collaboration with the London Borough of Camden's heritage team. Our detailed Heritage Impact Assessment set out clearly how proposed works would preserve and enhance the building's special interest.\n\nRoom by room, original features were uncovered, documented and restored: a Regency ceiling rose reclaimed from beneath three layers of plasterboard; original sash windows rebuilt using traditional joinery; and a remarkable pair of tripartite chimney pieces reinstated from archival evidence. The building now stands as a model of careful stewardship.",
+    "heroImage": {
+      "src": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=1600&q=85",
+      "alt": "Restored Regency townhouse façade in Bloomsbury Conservation Area",
+      "photographer": "Florian Schmidinger",
+      "sourceUrl": "https://unsplash.com/photos/q_zMvbkGrQQ"
+    },
+    "gallery": [
+      {
+        "src": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=1200&q=80",
+        "alt": "Restored Regency townhouse façade in Bloomsbury",
+        "photographer": "Florian Schmidinger",
+        "sourceUrl": "https://unsplash.com/photos/q_zMvbkGrQQ"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80",
+        "alt": "Restored first floor drawing room with reinstated ceiling rose",
+        "photographer": "Jonny Caspari",
+        "sourceUrl": "https://unsplash.com/photos/7AF-HPnDcNI"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?w=1200&q=80",
+        "alt": "Original sash windows restored using traditional joinery",
+        "photographer": "R ARCHITECTURE",
+        "sourceUrl": "https://unsplash.com/photos/n7a2OJDSZns"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?w=1200&q=80",
+        "alt": "Reinstated Regency chimney piece with original marble surround",
+        "photographer": "Angie Gade",
+        "sourceUrl": "https://unsplash.com/photos/5ggACsMVtIQ"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1539057859743-1b5f48ccbca3?w=1200&q=80",
+        "alt": "Lower ground floor kitchen with new contemporary interventions",
+        "photographer": "Chastity Cortijo",
+        "sourceUrl": "https://unsplash.com/photos/R-w5Q-4Mqm0"
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1560185127-6a9bcdb13e7f?w=1200&q=80",
+        "alt": "Restored staircase with original ironwork balusters",
+        "photographer": "Francesca Tosolini",
+        "sourceUrl": "https://unsplash.com/photos/v0-p3UaLOSs"
+      }
+    ],
+    "tags": ["Conservation", "Heritage", "Listed Building", "Residential"]
+  }
+]
